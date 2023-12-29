@@ -1,0 +1,31 @@
+.bh {
+    padding: 0;
+    margin: 0;
+    background-image: url("/k.jpg");
+    /* background: linear-gradient(to bottom right, white,white,white,lightblue,lightblue,lightblue,blue,darkblue,black); */
+    /* background: #010e29; */
+    background-size: cover;
+    background-position: center;
+    backdrop-filter: brightness(0.7) blur(5px);
+    /* background-repeat: no-repeat; */
+    width: 100%;
+    height: 100%;
+    
+  }
+
+  body{
+    background: #000;
+  }
+
+.bg{
+  /* background: linear-gradient(to bottom right,white,white , gray, black); */
+  background-image: url("/space.jpeg");
+  /* backdrop-filter: blur(12px); */
+  background-size: cover;
+  background-position: center;
+  text-shadow: 4px 3px 2px black;
+  box-shadow: 1px 1px 10px rgb(0, 225, 255);
+}
+.b{
+  text-shadow: 4px 3px 2px black;
+}

@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header {
+
+    background-image: url("/nav.jpg");
+    /* background: #38ee00; */
+    background-size: contain;
+    background-position: center;
+    width: 100%;
+    height: 15vh;
+    
+  }
